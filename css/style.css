@@ -1,0 +1,29 @@
+.main{
+    text-align: center;
+
+
+}
+.main h1{
+    font-size: 80px;
+    font-family: Impact;
+
+}
+.main p{
+    font-size: 35px;
+}
+.main button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0; 
+
+}
+
+.btn:hover{
+    background-color: rgb(0,128,0);
+
+}
